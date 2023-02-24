@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Ecommerce Brands And Agency**
 
-- 💬 Ask me about **UI/UX, Shopify, Wordpress, Web Optimization**
+- 💬 Ask me about **UI/UX, Shopify, Wordpress, React.js, Web Optimization**
 
 - 📫 How to reach me **yogeshlakhani1991@gmail.com**
 
